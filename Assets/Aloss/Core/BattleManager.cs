@@ -152,12 +152,19 @@ public void UseSkill(SkillData skill)
 {
     Debug.Log($"UseSkill: {skill.skillName}");
 
-    // 일단 공격 하나만 연결
-    if (skill.type == SkillType.Attack)
+    switch (skill.type)
     {
-        enemyHP = Mathf.Max(0, enemyHP - skill.baseDamage);
-        RefreshUI();
+        case SkillType.Attack:
+            enemyHP = Mathf.Max(0, enemyHP - skill.baseDamage);
+            break;
+
+        case SkillType.Move:
+            distance += skill.distanceDelta;
+            distance = Mathf.Clamp(distance, 1, 9);
+            break;
     }
+
+    RefreshUI();
 }
 
 public void HideTooltip()

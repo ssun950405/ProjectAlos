@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1cad35f7b97d9af4f9c3671ce7474b9e, type: 3}
-  m_Name: SK_Attack
+  m_Name: SK_MoveBack
   m_EditorClassIdentifier: Assembly-CSharp::SkillData
-  skillName: Attack
+  skillName: MoveBack
   description: 
-  type: 0
-  distanceDelta: 0
+  type: 1
+  distanceDelta: 1
   staminaCost: 0
-  baseDamage: 6
+  baseDamage: 0
   accuracyBonus: 0
