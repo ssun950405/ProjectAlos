@@ -41,7 +41,7 @@ public class BattleManager : MonoBehaviour
    private void RefreshUI()
 {
     if (playerText)
-        playerText.text = $"HP {playerHP}/30\nSTA {stamina}/10";
+        playerText.text = $"HP {playerHP}/30\nSTA {stamina}/{maxStamina}";
 
     if (enemyText)
         enemyText.text = $"ENEMY HP\n{enemyHP}/30";
