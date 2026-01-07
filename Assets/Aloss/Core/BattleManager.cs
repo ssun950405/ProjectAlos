@@ -155,8 +155,8 @@ public void UseSkill(SkillData skill)
     // 일단 공격 하나만 연결
     if (skill.type == SkillType.Attack)
     {
-        EnemyHP -= skill.baseDamage;
-        UpdateUI();
+        enemyHP = Mathf.Max(0, enemyHP - skill.baseDamage);
+        RefreshUI();
     }
 }
 
