@@ -36,12 +36,17 @@ public class BattleManager : MonoBehaviour
         HideTooltip();
     }
 
-    void RefreshUI()
-    {
-        if (playerText) playerText.text = $"HP {playerHP}/30";
-        if (enemyText) enemyText.text = $"ENEMY HP\n{enemyHP}/30";
-        if (distanceText) distanceText.text = $"DIST {distance}";
-    }
+   private void RefreshUI()
+{
+    if (playerText)
+        playerText.text = $"HP {playerHP}/30\nSTA {stamina}/10";
+
+    if (enemyText)
+        enemyText.text = $"ENEMY HP\n{enemyHP}/30";
+
+    if (distanceText)
+        distanceText.text = $"DIST {distance}";
+}
 
     void ClampAll()
     {
