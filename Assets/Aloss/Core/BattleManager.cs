@@ -15,6 +15,8 @@ public class BattleManager : MonoBehaviour
     [Header("Stats")]
     [SerializeField] private int playerHP = 30;
     [SerializeField] private int enemyHP = 30;
+    [SerializeField] private int stamina = 10;
+    [SerializeField] private int maxStamina = 10;
 
     [Header("Distance / Accuracy")]
     [SerializeField] private int distance = 5;           
