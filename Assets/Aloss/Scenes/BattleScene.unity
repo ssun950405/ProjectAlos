@@ -657,6 +657,7 @@ GameObject:
   - component: {fileID: 696562522}
   - component: {fileID: 696562521}
   - component: {fileID: 696562520}
+  - component: {fileID: 696562523}
   m_Layer: 5
   m_Name: SkillBtn_5
   m_TagString: Untagged
@@ -727,7 +728,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 696562521}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 696562523}
+        m_TargetAssemblyTypeName: SkillButton, Assembly-CSharp
+        m_MethodName: OnClick
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &696562521
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -766,6 +779,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 696562518}
   m_CullTransparentMesh: 1
+--- !u!114 &696562523
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 696562518}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3650019c6b4732b4f948bc5d47e22410, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SkillButton
+  skill: {fileID: 11400000, guid: 109b714ed5c6583468dd3a29b6e7b07d, type: 2}
+  battleManager: {fileID: 747745069}
 --- !u!1 &747745068
 GameObject:
   m_ObjectHideFlags: 0
@@ -1152,6 +1179,7 @@ GameObject:
   - component: {fileID: 1150450073}
   - component: {fileID: 1150450072}
   - component: {fileID: 1150450071}
+  - component: {fileID: 1150450074}
   m_Layer: 5
   m_Name: SkillBtn_6
   m_TagString: Untagged
@@ -1222,7 +1250,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1150450072}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1150450074}
+        m_TargetAssemblyTypeName: SkillButton, Assembly-CSharp
+        m_MethodName: OnClick
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1150450072
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1261,6 +1301,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1150450069}
   m_CullTransparentMesh: 1
+--- !u!114 &1150450074
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1150450069}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3650019c6b4732b4f948bc5d47e22410, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SkillButton
+  skill: {fileID: 11400000, guid: 115e8d4fd6d74364ea707b4df4a4e94f, type: 2}
+  battleManager: {fileID: 747745069}
 --- !u!1 &1167347204
 GameObject:
   m_ObjectHideFlags: 0
@@ -1362,6 +1416,7 @@ GameObject:
   - component: {fileID: 1191625599}
   - component: {fileID: 1191625598}
   - component: {fileID: 1191625597}
+  - component: {fileID: 1191625600}
   m_Layer: 5
   m_Name: SkillBtn_4
   m_TagString: Untagged
@@ -1432,7 +1487,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1191625598}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1191625600}
+        m_TargetAssemblyTypeName: SkillButton, Assembly-CSharp
+        m_MethodName: OnClick
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1191625598
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1471,6 +1538,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1191625595}
   m_CullTransparentMesh: 1
+--- !u!114 &1191625600
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1191625595}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3650019c6b4732b4f948bc5d47e22410, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SkillButton
+  skill: {fileID: 11400000, guid: ca208631495c1a241800aece016b22aa, type: 2}
+  battleManager: {fileID: 747745069}
 --- !u!1 &1204487707
 GameObject:
   m_ObjectHideFlags: 0
