@@ -1272,6 +1272,7 @@ GameObject:
   - component: {fileID: 1167347205}
   - component: {fileID: 1167347207}
   - component: {fileID: 1167347206}
+  - component: {fileID: 1167347208}
   m_Layer: 5
   m_Name: TooltipBG
   m_TagString: Untagged
@@ -1337,6 +1338,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1167347204}
   m_CullTransparentMesh: 1
+--- !u!225 &1167347208
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1167347204}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 0
+  m_IgnoreParentGroups: 0
 --- !u!1 &1191625595
 GameObject:
   m_ObjectHideFlags: 0

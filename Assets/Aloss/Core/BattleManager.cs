@@ -160,7 +160,7 @@ public void UseSkill(SkillData skill)
 
         case SkillType.Move:
             distance += skill.distanceDelta;
-            distance = Mathf.Clamp(distance, 1, 9);
+            distance = Mathf.Clamp(distance, 0, 9);
             break;
     }
 
