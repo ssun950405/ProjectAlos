@@ -148,6 +148,18 @@ public class BattleManager : MonoBehaviour
     tooltipText.text = $"HIT {pct}%   DMG {dmg}";
 }
 
+public void UseSkill(SkillData skill)
+{
+    Debug.Log($"UseSkill: {skill.skillName}");
+
+    // 일단 공격 하나만 연결
+    if (skill.type == SkillType.Attack)
+    {
+        EnemyHP -= skill.baseDamage;
+        UpdateUI();
+    }
+}
+
 public void HideTooltip()
 {
     if (tooltipText) tooltipText.text = "";

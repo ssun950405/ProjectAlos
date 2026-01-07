@@ -50,3 +50,25 @@
 - 턴 기반 전투 구조 설계
 - Skill 데이터(ScriptableObject) 설계
 
+
+## 2026-01-07 Battle Prototype v0.1
+
+### Completed
+- 1 turn = 1 action battle flow
+- Distance affects hit chance, not skill availability
+- Basic skills implemented:
+  - Move +1 / -1
+  - Backstep +2
+  - Attack (flat damage)
+  - Guard (next damage -4)
+- Tooltip shows HIT% and DMG only on attack skill hover
+
+### Design Decisions
+- Distance never blocks actions, only modifies accuracy
+- No stamina for prototype phase
+- Tooltip appears only when relevant (attack-type skills)
+
+### Next
+- Tooltip positioning refinement (button-relative or cursor-based)
+- Visual feedback for hit/miss
+- Skill data abstraction (ScriptableObject)
