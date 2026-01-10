@@ -392,7 +392,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: backstep +2
+  m_text: attack_range
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -529,7 +529,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: move +1
+  m_text: 'attack_close
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -791,7 +793,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3650019c6b4732b4f948bc5d47e22410, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SkillButton
-  skill: {fileID: 11400000, guid: 109b714ed5c6583468dd3a29b6e7b07d, type: 2}
+  skill: {fileID: 11400000, guid: efe05d0af1c474b4ca4a0b2fbbe818a7, type: 2}
   battleManager: {fileID: 747745069}
 --- !u!1 &747745068
 GameObject:
@@ -829,11 +831,9 @@ MonoBehaviour:
   tooltipRoot: {fileID: 1167347205}
   playerHP: 30
   enemyHP: 30
+  stamina: 10
+  maxStamina: 10
   distance: 5
-  idealDistance: 5
-  maxHitChance: 0.9
-  penaltyPerStep: 0.1
-  minHitChance: 0.1
   baseAttackDamage: 6
 --- !u!4 &747745070
 Transform:
@@ -948,9 +948,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'guard
-
-'
+  m_text: focus
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1087,7 +1085,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: move -1
+  m_text: forward -2
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1313,7 +1311,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3650019c6b4732b4f948bc5d47e22410, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SkillButton
-  skill: {fileID: 11400000, guid: 115e8d4fd6d74364ea707b4df4a4e94f, type: 2}
+  skill: {fileID: 11400000, guid: dd56a2722f226614baf84a8c8b0ca560, type: 2}
   battleManager: {fileID: 747745069}
 --- !u!1 &1167347204
 GameObject:
@@ -1550,7 +1548,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3650019c6b4732b4f948bc5d47e22410, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SkillButton
-  skill: {fileID: 11400000, guid: ca208631495c1a241800aece016b22aa, type: 2}
+  skill: {fileID: 11400000, guid: 19eef03670623fa49b62d74109c43975, type: 2}
   battleManager: {fileID: 747745069}
 --- !u!1 &1204487707
 GameObject:
@@ -1698,7 +1696,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3650019c6b4732b4f948bc5d47e22410, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SkillButton
-  skill: {fileID: 11400000, guid: 439fcb87ccca2904b94561b9e007fb86, type: 2}
+  skill: {fileID: 11400000, guid: 9a050bae819d7c14e9936f3a017af257, type: 2}
   battleManager: {fileID: 747745069}
 --- !u!1 &1242034775
 GameObject:
@@ -1894,7 +1892,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: attack
+  m_text: 'guard
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2433,7 +2433,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3650019c6b4732b4f948bc5d47e22410, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SkillButton
-  skill: {fileID: 11400000, guid: 7e0f5923a3d851e428019a8e3e59ae88, type: 2}
+  skill: {fileID: 11400000, guid: fc85c149c9735fe4ab2823aec3d94530, type: 2}
   battleManager: {fileID: 747745069}
 --- !u!1 &1555287353
 GameObject:
@@ -2447,7 +2447,6 @@ GameObject:
   - component: {fileID: 1555287357}
   - component: {fileID: 1555287356}
   - component: {fileID: 1555287355}
-  - component: {fileID: 1555287358}
   - component: {fileID: 1555287359}
   m_Layer: 5
   m_Name: SkillBtn_3
@@ -2570,21 +2569,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1555287353}
   m_CullTransparentMesh: 1
---- !u!114 &1555287358
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1555287353}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b3a35aaf86eab44499873ac10ee03026, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::SkillTooltipTrigger
-  tooltipType: 1
-  damage: 6
-  battleManager: {fileID: 747745069}
 --- !u!114 &1555287359
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2597,7 +2581,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3650019c6b4732b4f948bc5d47e22410, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SkillButton
-  skill: {fileID: 11400000, guid: c03033b4564b7a04c832990796318fea, type: 2}
+  skill: {fileID: 11400000, guid: b3705074fc4f1ae43afed174b1491792, type: 2}
   battleManager: {fileID: 747745069}
 --- !u!1 &1656664530
 GameObject:
@@ -2656,7 +2640,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: buff
+  m_text: back +2
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

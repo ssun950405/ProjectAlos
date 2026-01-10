@@ -151,6 +151,8 @@ public class BattleManager : MonoBehaviour
     // =========================================================
     private void EndPlayerAction()
     {
+        stamina = Mathf.Min(maxStamina, stamina + 2);
+        
         ClampAll();
         RefreshUI();
 
