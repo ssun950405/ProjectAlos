@@ -1,0 +1,6240 @@
+fileFormatVersion: 2
+guid: 093ace022b92de045b8e97ca2d649e1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4238989429776242823
+    second: hp, stamina bar_0
+  - first:
+      213: -5973110984269319013
+    second: hp, stamina bar_1
+  - first:
+      213: 2548651003346960583
+    second: hp, stamina bar_2
+  - first:
+      213: -5027316020432152358
+    second: hp, stamina bar_3
+  - first:
+      213: -4370509355327258188
+    second: hp, stamina bar_4
+  - first:
+      213: 1617692195654520686
+    second: hp, stamina bar_5
+  - first:
+      213: -8703711231115956010
+    second: hp, stamina bar_6
+  - first:
+      213: -6718706985721261203
+    second: hp, stamina bar_7
+  - first:
+      213: 9087634472764650574
+    second: hp, stamina bar_8
+  - first:
+      213: -916638181392566079
+    second: hp, stamina bar_9
+  - first:
+      213: 5509348284391127483
+    second: hp, stamina bar_10
+  - first:
+      213: -514788345491682306
+    second: hp, stamina bar_11
+  - first:
+      213: 8300045966950454023
+    second: hp, stamina bar_12
+  - first:
+      213: -2493419041223962006
+    second: hp, stamina bar_13
+  - first:
+      213: -2276906459758278190
+    second: hp, stamina bar_14
+  - first:
+      213: 3053320799887367979
+    second: hp, stamina bar_15
+  - first:
+      213: 8299430499684068569
+    second: hp, stamina bar_16
+  - first:
+      213: -1189583779031308356
+    second: hp, stamina bar_17
+  - first:
+      213: 7072132193428184447
+    second: hp, stamina bar_18
+  - first:
+      213: -6772616640477697619
+    second: hp, stamina bar_19
+  - first:
+      213: -5823721653212795294
+    second: hp, stamina bar_20
+  - first:
+      213: -3066090016693642581
+    second: hp, stamina bar_21
+  - first:
+      213: -547951272337305330
+    second: hp, stamina bar_22
+  - first:
+      213: 5537459477418032686
+    second: hp, stamina bar_23
+  - first:
+      213: 7379258372366877789
+    second: hp, stamina bar_24
+  - first:
+      213: -3399235596143542627
+    second: hp, stamina bar_25
+  - first:
+      213: 7445381812128022705
+    second: hp, stamina bar_26
+  - first:
+      213: 9094052858992347250
+    second: hp, stamina bar_27
+  - first:
+      213: -5096251205002531996
+    second: hp, stamina bar_28
+  - first:
+      213: -5183083159973477764
+    second: hp, stamina bar_29
+  - first:
+      213: -3307891264298281862
+    second: hp, stamina bar_30
+  - first:
+      213: -8959288395843943172
+    second: hp, stamina bar_31
+  - first:
+      213: 6686469192465423008
+    second: hp, stamina bar_32
+  - first:
+      213: 8709177786996201648
+    second: hp, stamina bar_33
+  - first:
+      213: -5328934009146189586
+    second: hp, stamina bar_34
+  - first:
+      213: 6295737123061731749
+    second: hp, stamina bar_35
+  - first:
+      213: -8541444281282384569
+    second: hp, stamina bar_36
+  - first:
+      213: -3516472808069776348
+    second: hp, stamina bar_37
+  - first:
+      213: 8711626300754771682
+    second: hp, stamina bar_38
+  - first:
+      213: -3895577829998139034
+    second: hp, stamina bar_39
+  - first:
+      213: 400699205343022260
+    second: hp, stamina bar_40
+  - first:
+      213: 6368816178201049509
+    second: hp, stamina bar_41
+  - first:
+      213: -1812358335058166532
+    second: hp, stamina bar_42
+  - first:
+      213: 6976087245692673454
+    second: hp, stamina bar_43
+  - first:
+      213: 5584746740393785754
+    second: hp, stamina bar_44
+  - first:
+      213: -7965343889359779944
+    second: hp, stamina bar_45
+  - first:
+      213: -3502451347465779892
+    second: hp, stamina bar_46
+  - first:
+      213: -6343044977029645120
+    second: hp, stamina bar_47
+  - first:
+      213: 8576952579254738805
+    second: hp, stamina bar_48
+  - first:
+      213: -473756486461727216
+    second: hp, stamina bar_49
+  - first:
+      213: -2307678303140627907
+    second: hp, stamina bar_50
+  - first:
+      213: 8607185870959938505
+    second: hp, stamina bar_51
+  - first:
+      213: 8492981107643320148
+    second: hp, stamina bar_52
+  - first:
+      213: 4477672924206289527
+    second: hp, stamina bar_53
+  - first:
+      213: 3319453837414658455
+    second: hp, stamina bar_54
+  - first:
+      213: -8775937200492114032
+    second: hp, stamina bar_55
+  - first:
+      213: 4535007303795744773
+    second: hp, stamina bar_56
+  - first:
+      213: 1027364562511561974
+    second: hp, stamina bar_57
+  - first:
+      213: 6565145734800387396
+    second: hp, stamina bar_58
+  - first:
+      213: 5812697317685921627
+    second: hp, stamina bar_59
+  - first:
+      213: 5651661700716853444
+    second: hp, stamina bar_60
+  - first:
+      213: 6214847271415610924
+    second: hp, stamina bar_61
+  - first:
+      213: -1656381304351538828
+    second: hp, stamina bar_62
+  - first:
+      213: 5026039454894037565
+    second: hp, stamina bar_63
+  - first:
+      213: 2213073307921185977
+    second: hp, stamina bar_64
+  - first:
+      213: -4685681962967568526
+    second: hp, stamina bar_65
+  - first:
+      213: -7757519433193614378
+    second: hp, stamina bar_66
+  - first:
+      213: 144383201072961923
+    second: hp, stamina bar_67
+  - first:
+      213: 3883213648823719153
+    second: hp, stamina bar_68
+  - first:
+      213: -224981562271843562
+    second: hp, stamina bar_69
+  - first:
+      213: 1484703881623321515
+    second: hp, stamina bar_70
+  - first:
+      213: -7653199819690191912
+    second: hp, stamina bar_71
+  - first:
+      213: 5896688751505908422
+    second: hp, stamina bar_72
+  - first:
+      213: -6553357815554168134
+    second: hp, stamina bar_73
+  - first:
+      213: -7312436433570592547
+    second: hp, stamina bar_74
+  - first:
+      213: 9163712076877864106
+    second: hp, stamina bar_75
+  - first:
+      213: 435990081573734460
+    second: hp, stamina bar_76
+  - first:
+      213: 5879033408980404031
+    second: hp, stamina bar_77
+  - first:
+      213: 6840871435166181042
+    second: hp, stamina bar_78
+  - first:
+      213: -8759626404001777639
+    second: hp, stamina bar_79
+  - first:
+      213: -570357751986252101
+    second: hp, stamina bar_80
+  - first:
+      213: -7312984002540136255
+    second: hp, stamina bar_81
+  - first:
+      213: -1551024770926884836
+    second: hp, stamina bar_82
+  - first:
+      213: -968150314232311866
+    second: hp, stamina bar_83
+  - first:
+      213: -5542707829365761460
+    second: hp, stamina bar_84
+  - first:
+      213: -1689116264042495110
+    second: hp, stamina bar_85
+  - first:
+      213: -6465927655637937481
+    second: hp, stamina bar_86
+  - first:
+      213: -1152607148619743825
+    second: hp, stamina bar_87
+  - first:
+      213: -1151283756528549066
+    second: hp, stamina bar_88
+  - first:
+      213: -3953665175132234385
+    second: hp, stamina bar_89
+  - first:
+      213: -585899237337163755
+    second: hp, stamina bar_90
+  - first:
+      213: -2556711348247134297
+    second: hp, stamina bar_91
+  - first:
+      213: 4804600700990632841
+    second: hp, stamina bar_92
+  - first:
+      213: -751507172672928207
+    second: hp, stamina bar_93
+  - first:
+      213: -7299978548988773457
+    second: hp, stamina bar_94
+  - first:
+      213: -133866776256350460
+    second: hp, stamina bar_95
+  - first:
+      213: 2426688701047797196
+    second: hp, stamina bar_96
+  - first:
+      213: -8474448433625151630
+    second: hp, stamina bar_97
+  - first:
+      213: 7449659300769032659
+    second: hp, stamina bar_98
+  - first:
+      213: -4225309935711108219
+    second: hp, stamina bar_99
+  - first:
+      213: -7862174275622613231
+    second: hp, stamina bar_100
+  - first:
+      213: 5607625769060392069
+    second: hp, stamina bar_101
+  - first:
+      213: -5445329731019907027
+    second: hp, stamina bar_102
+  - first:
+      213: 5169045222356287375
+    second: hp, stamina bar_103
+  - first:
+      213: 1905366984580379779
+    second: hp, stamina bar_104
+  - first:
+      213: 6252572688815461079
+    second: hp, stamina bar_105
+  - first:
+      213: 7114981208565999614
+    second: hp, stamina bar_106
+  - first:
+      213: 818314566738904108
+    second: hp, stamina bar_107
+  - first:
+      213: 5048917152015332280
+    second: hp, stamina bar_108
+  - first:
+      213: -4029860057351676740
+    second: hp, stamina bar_109
+  - first:
+      213: 7090032059948169062
+    second: hp, stamina bar_110
+  - first:
+      213: 4819193447056217185
+    second: hp, stamina bar_111
+  - first:
+      213: -1724655032681717028
+    second: hp, stamina bar_112
+  - first:
+      213: -1852951074698931080
+    second: hp, stamina bar_113
+  - first:
+      213: -595852337051145937
+    second: hp, stamina bar_114
+  - first:
+      213: -412709408886452586
+    second: hp, stamina bar_115
+  - first:
+      213: 7601170612920717258
+    second: hp, stamina bar_116
+  - first:
+      213: 8487503942993645752
+    second: hp, stamina bar_117
+  - first:
+      213: 95442464132438014
+    second: hp, stamina bar_118
+  - first:
+      213: -1592114400796205871
+    second: hp, stamina bar_119
+  - first:
+      213: -5223082724417149224
+    second: hp, stamina bar_120
+  - first:
+      213: -4877216151953613653
+    second: hp, stamina bar_121
+  - first:
+      213: 2160028050197352769
+    second: hp, stamina bar_122
+  - first:
+      213: -55601442788287378
+    second: hp, stamina bar_123
+  - first:
+      213: 3793460914662127336
+    second: hp, stamina bar_124
+  - first:
+      213: -7491976823867344279
+    second: hp, stamina bar_125
+  - first:
+      213: 4694244071192800239
+    second: hp, stamina bar_126
+  - first:
+      213: 5652380496326032766
+    second: hp, stamina bar_127
+  - first:
+      213: 8877855983015404844
+    second: hp, stamina bar_128
+  - first:
+      213: -6215408746962411771
+    second: hp, stamina bar_129
+  - first:
+      213: -4780778906932155319
+    second: hp, stamina bar_130
+  - first:
+      213: 3840048369471779831
+    second: hp, stamina bar_131
+  - first:
+      213: 134551506050559118
+    second: hp, stamina bar_132
+  - first:
+      213: 726372520950427112
+    second: hp, stamina bar_133
+  - first:
+      213: -7652326957324378920
+    second: hp, stamina bar_134
+  - first:
+      213: -7150539929236830033
+    second: hp, stamina bar_135
+  - first:
+      213: -6600555327757969384
+    second: hp, stamina bar_136
+  - first:
+      213: 4098966920084352898
+    second: hp, stamina bar_137
+  - first:
+      213: -8774233480616678685
+    second: hp, stamina bar_138
+  - first:
+      213: 5172370011746392769
+    second: hp, stamina bar_139
+  - first:
+      213: 515691376888588692
+    second: hp, stamina bar_140
+  - first:
+      213: 3024124564119819674
+    second: hp, stamina bar_141
+  - first:
+      213: -1774413529495120963
+    second: hp, stamina bar_142
+  - first:
+      213: -1396580116283315352
+    second: hp, stamina bar_143
+  - first:
+      213: 9185268060919780839
+    second: hp, stamina bar_144
+  - first:
+      213: -4179180503494844029
+    second: hp, stamina bar_145
+  - first:
+      213: 4456457632460995105
+    second: hp, stamina bar_146
+  - first:
+      213: 7379935010682506706
+    second: hp, stamina bar_147
+  - first:
+      213: -2379734201290761094
+    second: hp, stamina bar_148
+  - first:
+      213: 1804017248503750189
+    second: hp, stamina bar_149
+  - first:
+      213: -4168088634304030706
+    second: hp, stamina bar_150
+  - first:
+      213: -4222985280801477045
+    second: hp, stamina bar_151
+  - first:
+      213: -2813553580964321847
+    second: hp, stamina bar_152
+  - first:
+      213: -7646043547233841472
+    second: hp, stamina bar_153
+  - first:
+      213: 3208984276070180318
+    second: hp, stamina bar_154
+  - first:
+      213: 6144956520492489589
+    second: hp, stamina bar_155
+  - first:
+      213: -3013598583354209653
+    second: hp, stamina bar_156
+  - first:
+      213: -770186584105219840
+    second: hp, stamina bar_157
+  - first:
+      213: -3038672656507056463
+    second: hp, stamina bar_158
+  - first:
+      213: -5309110092351282905
+    second: hp, stamina bar_159
+  - first:
+      213: 6580393337006261161
+    second: hp, stamina bar_160
+  - first:
+      213: 7556449306658951580
+    second: hp, stamina bar_161
+  - first:
+      213: 9040617716806289594
+    second: hp, stamina bar_162
+  - first:
+      213: 1963186626393000735
+    second: hp, stamina bar_163
+  - first:
+      213: 8530315792603730767
+    second: hp, stamina bar_164
+  - first:
+      213: 2764059541154232388
+    second: hp, stamina bar_165
+  - first:
+      213: 5793447602054146289
+    second: hp, stamina bar_166
+  - first:
+      213: 1937386714864228197
+    second: hp, stamina bar_167
+  - first:
+      213: -8553618474440841351
+    second: hp, stamina bar_168
+  - first:
+      213: 8495058412524609471
+    second: hp, stamina bar_169
+  - first:
+      213: -2278655357682502473
+    second: hp, stamina bar_170
+  - first:
+      213: -9066088819239301950
+    second: hp, stamina bar_171
+  - first:
+      213: 6274160212875155229
+    second: hp, stamina bar_172
+  - first:
+      213: -1737474849103174858
+    second: hp, stamina bar_173
+  - first:
+      213: -2279999689513262160
+    second: hp, stamina bar_174
+  - first:
+      213: -6945440214986143153
+    second: hp, stamina bar_175
+  - first:
+      213: -2251549759428547286
+    second: hp, stamina bar_176
+  - first:
+      213: 8776333831128888995
+    second: hp, stamina bar_177
+  - first:
+      213: 1513579657714314427
+    second: hp, stamina bar_178
+  - first:
+      213: -873398317012217259
+    second: hp, stamina bar_179
+  - first:
+      213: 7102032831958543185
+    second: hp, stamina bar_180
+  - first:
+      213: -4725572855842750758
+    second: hp, stamina bar_181
+  - first:
+      213: -4513968154346890010
+    second: hp, stamina bar_182
+  - first:
+      213: -4735461601445102994
+    second: hp, stamina bar_183
+  - first:
+      213: 3560649059278206736
+    second: hp, stamina bar_184
+  - first:
+      213: -5407508428562544647
+    second: hp, stamina bar_185
+  - first:
+      213: 9195998778224036721
+    second: hp, stamina bar_186
+  - first:
+      213: 7456168451418578557
+    second: hp, stamina bar_187
+  - first:
+      213: 5699475917548502777
+    second: hp, stamina bar_188
+  - first:
+      213: 7920946906605664849
+    second: hp, stamina bar_189
+  - first:
+      213: 6253845036641185404
+    second: hp, stamina bar_190
+  - first:
+      213: -6990983555305384473
+    second: hp, stamina bar_191
+  - first:
+      213: 136668842397731442
+    second: hp, stamina bar_192
+  - first:
+      213: 835872580522393605
+    second: hp, stamina bar_193
+  - first:
+      213: 5507189799373634046
+    second: hp, stamina bar_194
+  - first:
+      213: 6632834008146994816
+    second: hp, stamina bar_195
+  - first:
+      213: -6140048308907351505
+    second: hp, stamina bar_196
+  - first:
+      213: 8058243946356377840
+    second: hp, stamina bar_197
+  - first:
+      213: -8740035449901958301
+    second: hp, stamina bar_198
+  - first:
+      213: 7137854573497291953
+    second: hp, stamina bar_199
+  - first:
+      213: -7377299191599287917
+    second: hp, stamina bar_200
+  - first:
+      213: 2787167138118925067
+    second: hp, stamina bar_201
+  - first:
+      213: -7877354129031197449
+    second: hp, stamina bar_202
+  - first:
+      213: 2534933542662308392
+    second: hp, stamina bar_203
+  - first:
+      213: 2118429009300551641
+    second: hp, stamina bar_204
+  - first:
+      213: -8944035608071740480
+    second: hp, stamina bar_205
+  - first:
+      213: -7056479981669708108
+    second: hp, stamina bar_206
+  - first:
+      213: -5671187546207788005
+    second: hp, stamina bar_207
+  - first:
+      213: 271553946560214888
+    second: hp, stamina bar_208
+  - first:
+      213: 1279477817154642284
+    second: hp, stamina bar_209
+  - first:
+      213: 5410441269027911261
+    second: hp, stamina bar_210
+  - first:
+      213: -5699553310712942485
+    second: hp, stamina bar_211
+  - first:
+      213: -698075406998157316
+    second: hp, stamina bar_212
+  - first:
+      213: -6618606533781469869
+    second: hp, stamina bar_213
+  - first:
+      213: 4432698668007657572
+    second: hp, stamina bar_214
+  - first:
+      213: 3763677019699720436
+    second: hp, stamina bar_215
+  - first:
+      213: 9176910367440894808
+    second: hp, stamina bar_216
+  - first:
+      213: 2136125935007343161
+    second: hp, stamina bar_217
+  - first:
+      213: -5233378127389771301
+    second: hp, stamina bar_218
+  - first:
+      213: 1667006388526024567
+    second: hp, stamina bar_219
+  - first:
+      213: -2529842234297139682
+    second: hp, stamina bar_220
+  - first:
+      213: 6727226909056390076
+    second: hp, stamina bar_221
+  - first:
+      213: -3598173703829517445
+    second: hp, stamina bar_222
+  - first:
+      213: 1830731659579211984
+    second: hp, stamina bar_223
+  - first:
+      213: 1721149752547000431
+    second: hp, stamina bar_224
+  - first:
+      213: -667766069074220010
+    second: hp, stamina bar_225
+  - first:
+      213: -7485528189344286931
+    second: hp, stamina bar_226
+  - first:
+      213: 5784209962461240329
+    second: hp, stamina bar_227
+  - first:
+      213: -71551467612161199
+    second: hp, stamina bar_228
+  - first:
+      213: -914011183183319649
+    second: hp, stamina bar_229
+  - first:
+      213: -1623559521714471954
+    second: hp, stamina bar_230
+  - first:
+      213: 1758736566710043114
+    second: hp, stamina bar_231
+  - first:
+      213: -2604349774352239133
+    second: hp, stamina bar_232
+  - first:
+      213: -348310520145621324
+    second: hp, stamina bar_233
+  - first:
+      213: 7098272690064456440
+    second: hp, stamina bar_234
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hp, stamina bar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 102
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788d2706d6ae3da30800000000000000
+      internalID: 4238989429776242823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 355
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94b4aae43f3b1da0800000000000000
+      internalID: -5973110984269319013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 421
+        width: 11
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c040fe8590ae5320800000000000000
+      internalID: 2548651003346960583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 349
+        width: 13
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8d28c17b26b3ab0800000000000000
+      internalID: -5027316020432152358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 797
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b18234b5e4d853c0800000000000000
+      internalID: -4370509355327258188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 718
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fc8e52b72337610800000000000000
+      internalID: 1617692195654520686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 710
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d071c1efb4363780800000000000000
+      internalID: -8703711231115956010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 661
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63162ef79b52c2a0800000000000000
+      internalID: -6718706985721261203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 635
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e443bb59763cd1e70800000000000000
+      internalID: 9087634472764650574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 550
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8398a3e627743f0800000000000000
+      internalID: -916638181392566079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 475
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb97a0b2313257c40800000000000000
+      internalID: 5509348284391127483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 315
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb057c2aba1bd8f0800000000000000
+      internalID: -514788345491682306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 182
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703de77d4dfaf2370800000000000000
+      internalID: 8300045966950454023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 940
+        width: 9
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6296abb798956dd0800000000000000
+      internalID: -2493419041223962006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 779
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9c05f63adc660e0800000000000000
+      internalID: -2276906459758278190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 462
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f199e17139f5a20800000000000000
+      internalID: 3053320799887367979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 309
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc26b331108d2370800000000000000
+      internalID: 8299430499684068569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 278
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7a54c0bdfbd7fe0800000000000000
+      internalID: -1189583779031308356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 222
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d14e992c2452260800000000000000
+      internalID: 7072132193428184447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 814
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da96d606c05d202a0800000000000000
+      internalID: -6772616640477697619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 789
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e2085030cfd2fa0800000000000000
+      internalID: -5823721653212795294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 766
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa9a99ef5f0375d0800000000000000
+      internalID: -3066090016693642581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 750
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e019c1298394568f0800000000000000
+      internalID: -547951272337305330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 734
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e3f955e0209dc40800000000000000
+      internalID: 5537459477418032686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_24
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 686
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5441c68464686660800000000000000
+      internalID: 7379258372366877789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 653
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e30083c3d73d0d0800000000000000
+      internalID: -3399235596143542627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 648
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b08b019f4f435760800000000000000
+      internalID: 7445381812128022705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_27
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 629
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2784dd494e0943e70800000000000000
+      internalID: 9094052858992347250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 614
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46beaa7b78a7649b0800000000000000
+      internalID: -5096251205002531996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 606
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72c870c35df118b0800000000000000
+      internalID: -5183083159973477764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 582
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7412ebcb620812d0800000000000000
+      internalID: -3307891264298281862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 566
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4417d1ca63aa380800000000000000
+      internalID: -8959288395843943172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_32
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 531
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa9e7add4c1bcc50800000000000000
+      internalID: 6686469192465423008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 526
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b891a7dd073dd870800000000000000
+      internalID: 8709177786996201648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_34
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 518
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8d759a0c2db06b0800000000000000
+      internalID: -5328934009146189586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_35
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 510
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a19553ae83fe5750800000000000000
+      internalID: 6295737123061731749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_36
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 496
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d2f514ea1b67980800000000000000
+      internalID: -8541444281282384569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_37
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 470
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c3ea4bc9af23fc0800000000000000
+      internalID: -3516472808069776348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_38
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 295
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee3070e6f9e5e870800000000000000
+      internalID: 8711626300754771682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_39
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 286
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669e2107a9020f9c0800000000000000
+      internalID: -3895577829998139034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc8044edc19f8500800000000000000
+      internalID: 400699205343022260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_41
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 246
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a93f651294926850800000000000000
+      internalID: 6368816178201049509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_42
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 238
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcb32152b539d6e0800000000000000
+      internalID: -1812358335058166532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 229
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead15a9936a00d060800000000000000
+      internalID: 6976087245692673454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_44
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 200
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9931b53291018d40800000000000000
+      internalID: 5584746740393785754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 838
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897c1e05fe9657190800000000000000
+      internalID: -7965343889359779944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_46
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 830
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45c6376e0bc46fc0800000000000000
+      internalID: -3502451347465779892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_47
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 774
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc72d5433af8f7a0800000000000000
+      internalID: -6343044977029645120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_48
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 758
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f59dd9de4770770800000000000000
+      internalID: 8576952579254738805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_49
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 622
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e59625cf0ec69f0800000000000000
+      internalID: -473756486461727216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_50
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 598
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a3d655fca79ffd0800000000000000
+      internalID: -2307678303140627907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_51
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 558
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb045262fdd27770800000000000000
+      internalID: 8607185870959938505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_52
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 542
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4570f25d1512dd570800000000000000
+      internalID: 8492981107643320148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_53
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 256
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77253b30dc3e32e30800000000000000
+      internalID: 4477672924206289527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_54
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 94
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791786b8da1111e20800000000000000
+      internalID: 3319453837414658455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_55
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 13
+        width: 1442
+        height: 1011
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f0881fc9b953680800000000000000
+      internalID: -8775937200492114032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_56
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 519
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5002c848d159fee30800000000000000
+      internalID: 4535007303795744773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_57
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 1318
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4835b50aee14e00800000000000000
+      internalID: 1027364562511561974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_58
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 232
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44da27d13451c1b50800000000000000
+      internalID: 6565145734800387396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_59
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 507
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b570987d969daa050800000000000000
+      internalID: 5812697317685921627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_60
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 248
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c878ed7f5cbe6e40800000000000000
+      internalID: 5651661700716853444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_61
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 600
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e780a6aa29f3650800000000000000
+      internalID: 6214847271415610924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_62
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 536
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4714785caf95309e0800000000000000
+      internalID: -1656381304351538828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_63
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 136
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a9e00514410c540800000000000000
+      internalID: 5026039454894037565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_64
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 546
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc7a8cb27a66be10800000000000000
+      internalID: 2213073307921185977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_65
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 496
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fecda941d19feb0800000000000000
+      internalID: -4685681962967568526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_66
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 193
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d31e463d21c75490800000000000000
+      internalID: -7757519433193614378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 579
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389dc73a1c3f00200800000000000000
+      internalID: 144383201072961923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_68
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 603
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4161d4d32f3e530800000000000000
+      internalID: 3883213648823719153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_69
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 627
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b36cb0674b0ecf0800000000000000
+      internalID: -224981562271843562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_70
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 600
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab3dc4605aba9410800000000000000
+      internalID: 1484703881623321515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_71
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 258
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d35848ff4f5ac590800000000000000
+      internalID: -7653199819690191912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_72
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 247
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c22d807d2f35d150800000000000000
+      internalID: 5896688751505908422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_73
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 632
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba2dd5b9cbcd05a0800000000000000
+      internalID: -6553357815554168134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_74
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 552
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8866e7ec1058a90800000000000000
+      internalID: -7312436433570592547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_75
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 240
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac134e159b0c2f70800000000000000
+      internalID: 9163712076877864106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_76
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38cbc15ba2fc0600800000000000000
+      internalID: 435990081573734460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_77
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 104
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f374eecacb5869150800000000000000
+      internalID: 5879033408980404031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_78
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b662376358afee50800000000000000
+      internalID: 6840871435166181042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_79
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 528
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9187750323e8f6680800000000000000
+      internalID: -8759626404001777639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_80
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 144
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb618fd75aea518f0800000000000000
+      internalID: -570357751986252101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_81
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 129
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c81b78abcf038a90800000000000000
+      internalID: -7312984002540136255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_82
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 651
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1842134037a97ae0800000000000000
+      internalID: -1551024770926884836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_83
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 635
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf000f2b607092f0800000000000000
+      internalID: -968150314232311866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_84
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 547
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a90e088985413b0800000000000000
+      internalID: -5542707829365761460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_85
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 647
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73896905bd0f88e0800000000000000
+      internalID: -1689116264042495110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_86
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 627
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2935e1e096446a0800000000000000
+      internalID: -6465927655637937481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_87
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 507
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadb1f4b7ed1100f0800000000000000
+      internalID: -1152607148619743825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_88
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 275
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6334070f581d500f0800000000000000
+      internalID: -1151283756528549066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_89
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 600
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d196b7872c129c0800000000000000
+      internalID: -3953665175132234385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_90
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 592
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51898547fb77ed7f0800000000000000
+      internalID: -585899237337163755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_91
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 560
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aff486239cb48cd0800000000000000
+      internalID: -2556711348247134297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_92
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 505
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983b326b1ee5da240800000000000000
+      internalID: 4804600700990632841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_93
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1360ca6453c1295f0800000000000000
+      internalID: -751507172672928207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_94
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 88
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab7d87cf2441ba90800000000000000
+      internalID: -7299978548988773457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_95
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 107
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407730250e8642ef0800000000000000
+      internalID: -133866776256350460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_96
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 952
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5786634845da120800000000000000
+      internalID: 2426688701047797196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_97
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 176
+        width: 12
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27748669c06b46a80800000000000000
+      internalID: -8474448433625151630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_98
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 534
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9e5000aa1826760800000000000000
+      internalID: 7449659300769032659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_99
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 270
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583c208000fac55c0800000000000000
+      internalID: -4225309935711108219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_100
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 215
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fcc43e622f3e290800000000000000
+      internalID: -7862174275622613231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_101
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 159
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cdb2e2de942dd40800000000000000
+      internalID: 5607625769060392069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_102
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 920
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d206fa1d57d4e64b0800000000000000
+      internalID: -5445329731019907027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_103
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 896
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ff9723e332cb740800000000000000
+      internalID: 5169045222356287375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_104
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 872
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384bbaa6d29317a10800000000000000
+      internalID: 1905366984580379779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_105
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 641
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d29721abb995c650800000000000000
+      internalID: 6252572688815461079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_106
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 632
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7e72066bd7db260800000000000000
+      internalID: 7114981208565999614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_107
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 624
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24000943cc3b5b00800000000000000
+      internalID: 818314566738904108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_108
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 608
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b33042466b511640800000000000000
+      internalID: 5048917152015332280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_109
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 600
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc940301af0318c0800000000000000
+      internalID: -4029860057351676740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_110
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 584
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667775b089ad46260800000000000000
+      internalID: 7090032059948169062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_111
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 576
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1641dab28e631e240800000000000000
+      internalID: 4819193447056217185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_112
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 568
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2aae8a26bc018e0800000000000000
+      internalID: -1724655032681717028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_113
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 558
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874546e90def846e0800000000000000
+      internalID: -1852951074698931080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_114
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 552
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29ea77d47b1bb7f0800000000000000
+      internalID: -595852337051145937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_115
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 518
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e8cdfaaf2c54af0800000000000000
+      internalID: -412709408886452586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_116
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 512
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf07445668cc7960800000000000000
+      internalID: 7601170612920717258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_117
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 504
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b01ddf0edba9c570800000000000000
+      internalID: 8487503942993645752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_118
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 494
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef71a1b5a64135100800000000000000
+      internalID: 95442464132438014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_119
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 480
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc12ca436ca7e9e0800000000000000
+      internalID: -1592114400796205871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_120
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 473
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6e2aa6fe1e387b0800000000000000
+      internalID: -5223082724417149224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_121
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 464
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacd10a10c5a05cb0800000000000000
+      internalID: -4877216151953613653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_122
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 279
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14194ec3116f9fd10800000000000000
+      internalID: 2160028050197352769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_123
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 264
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cda9948c67a3ff0800000000000000
+      internalID: -55601442788287378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_124
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 256
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6b3cf6a9415a430800000000000000
+      internalID: 3793460914662127336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_125
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 246
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a7debd5c6270890800000000000000
+      internalID: -7491976823867344279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_126
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 166
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb2e609c1e452140800000000000000
+      internalID: 4694244071192800239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_127
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 151
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7dfbd22d1a417e40800000000000000
+      internalID: 5652380496326032766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_128
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 143
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25a5bacafa743b70800000000000000
+      internalID: 8877855983015404844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_129
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 136
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f137fdcae6eb9a0800000000000000
+      internalID: -6215408746962411771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_130
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 128
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ce0aee9e247adb0800000000000000
+      internalID: -4780778906932155319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_131
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 120
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3fea685a79a4530800000000000000
+      internalID: 3840048369471779831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_132
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 103
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c2322c1e50ed100800000000000000
+      internalID: 134551506050559118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_133
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 88
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edead595f7941a00800000000000000
+      internalID: 726372520950427112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_134
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 80
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcd8831d297dc590800000000000000
+      internalID: -7652326957324378920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_135
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 72
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8879dc1dd24cc90800000000000000
+      internalID: -7150539929236830033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_136
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 55
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8189ca096ed1664a0800000000000000
+      internalID: -6600555327757969384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_137
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f64b152b472e830800000000000000
+      internalID: 4098966920084352898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_138
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 41
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eae0832329ab3680800000000000000
+      internalID: -8774233480616678685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_139
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 35
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cad60d0f13f7c740800000000000000
+      internalID: 5172370011746392769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_140
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 23
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4992d25339a182700800000000000000
+      internalID: 515691376888588692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_141
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 938
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9515e0c449d7f920800000000000000
+      internalID: 3024124564119819674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_142
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 881
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3dbc1db440067e0800000000000000
+      internalID: -1774413529495120963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_143
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 865
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b2f8c98c95e9ce0800000000000000
+      internalID: -1396580116283315352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_144
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 858
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e55dd1c2a0a87f70800000000000000
+      internalID: 9185268060919780839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_145
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 850
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381a3fc69719006c0800000000000000
+      internalID: -4179180503494844029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_146
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 240
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a7a6bfa9488dd30800000000000000
+      internalID: 4456457632460995105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_147
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 113
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd0339aacbca6660800000000000000
+      internalID: 7379935010682506706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_148
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 65
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c57303a5c79fed0800000000000000
+      internalID: -2379734201290761094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_149
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e5eb12128290910800000000000000
+      internalID: 1804017248503750189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_150
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 10
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0817f77879f726c0800000000000000
+      internalID: -4168088634304030706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_151
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 467
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4eef1ee241f465c0800000000000000
+      internalID: -4222985280801477045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_152
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 211
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5e71accef34f8d0800000000000000
+      internalID: -2813553580964321847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_153
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 165
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce85fd77ebc3e590800000000000000
+      internalID: -7646043547233841472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_154
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 87
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed52af8723a988c20800000000000000
+      internalID: 3208984276070180318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_155
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 862
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bdc24e565474550800000000000000
+      internalID: 6144956520492489589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_156
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 643
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a4d8f1e0c8d26d0800000000000000
+      internalID: -3013598583354209653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_157
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 622
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00903a3e16fbf45f0800000000000000
+      internalID: -770186584105219840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_158
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 614
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be4438815774d5d0800000000000000
+      internalID: -3038672656507056463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_159
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 606
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721e5f7ff704256b0800000000000000
+      internalID: -5309110092351282905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_160
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 598
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a30b9620e0425b50800000000000000
+      internalID: 6580393337006261161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_161
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 587
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9157aecb96edd860800000000000000
+      internalID: 7556449306658951580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_162
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 583
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab887580ae9b67d70800000000000000
+      internalID: 9040617716806289594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_163
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 567
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bc3f5d5d3ae3b10800000000000000
+      internalID: 1963186626393000735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_164
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 556
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43dc009405c16670800000000000000
+      internalID: 8530315792603730767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_165
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 548
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448f6801289eb5620800000000000000
+      internalID: 2764059541154232388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_166
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 533
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8a64926e5766050800000000000000
+      internalID: 5793447602054146289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_167
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 527
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5671b04d3faf2ea10800000000000000
+      internalID: 1937386714864228197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_168
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 517
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9772cb601517b4980800000000000000
+      internalID: -8553618474440841351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_169
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 509
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf19b01e9284e570800000000000000
+      internalID: 8495058412524609471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_170
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 491
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b43bc766079060e0800000000000000
+      internalID: -2278655357682502473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_171
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 478
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccc91bc048ce2280800000000000000
+      internalID: -9066088819239301950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_172
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 276
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d171050c87b421750800000000000000
+      internalID: 6274160212875155229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_173
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 268
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633a70d84df33e7e0800000000000000
+      internalID: -1737474849103174858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_174
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 261
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3af82cc50db50e0800000000000000
+      internalID: -2279999689513262160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_175
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 254
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ac9094ce6dc9f90800000000000000
+      internalID: -6945440214986143153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_176
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 246
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d252b4c63e0c0e0800000000000000
+      internalID: -2251549759428547286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_177
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 238
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a63ea2de1dcbc970800000000000000
+      internalID: 8776333831128888995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_178
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 230
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbca15deda0510510800000000000000
+      internalID: 1513579657714314427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_179
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 204
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552101fabd011e3f0800000000000000
+      internalID: -873398317012217259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_180
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 190
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bec048b3d7f8260800000000000000
+      internalID: 7102032831958543185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_181
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 183
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adeb34756846b6eb0800000000000000
+      internalID: -4725572855842750758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_182
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 157
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec5ab031e92b51c0800000000000000
+      internalID: -4513968154346890010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_183
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 150
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6abc5653c2484eb0800000000000000
+      internalID: -4735461601445102994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_184
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 139
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0173b1c4477f96130800000000000000
+      internalID: 3560649059278206736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_185
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 134
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f749930cbba4f4b0800000000000000
+      internalID: -5407508428562544647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_186
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 124
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b48f29a20ce9f70800000000000000
+      internalID: 9195998778224036721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_187
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 117
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e574cb3b1a97760800000000000000
+      internalID: 7456168451418578557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_188
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 108
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe3f5f562b981f40800000000000000
+      internalID: 5699475917548502777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_189
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 67
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ab5fc9e3bdced60800000000000000
+      internalID: 7920946906605664849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_190
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 53
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e66513dee1ac650800000000000000
+      internalID: 6253845036641185404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_191
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 39
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5dc6b0f790bfe90800000000000000
+      internalID: -6990983555305384473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_192
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 29
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a0bfa869b85e100800000000000000
+      internalID: 136668842397731442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_193
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 619
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500c68feead999b00800000000000000
+      internalID: 835872580522393605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_194
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9f156b1f77d6c40800000000000000
+      internalID: 5507189799373634046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_195
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 272
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0866bbd536f8c0c50800000000000000
+      internalID: 6632834008146994816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_196
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 242
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22e6db289a2acaa0800000000000000
+      internalID: -6140048308907351505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_197
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 129
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f88300cc22a4df60800000000000000
+      internalID: 8058243946356377840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_198
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 875
+        width: 102
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bb544a01825b680800000000000000
+      internalID: -8740035449901958301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_199
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 651
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b414b7aae0ce0360800000000000000
+      internalID: 7137854573497291953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_200
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 643
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391b2fac8719e9990800000000000000
+      internalID: -7377299191599287917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_201
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 633
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b783dbeb10ea620800000000000000
+      internalID: 2787167138118925067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_202
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 600
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc8329d7240ea290800000000000000
+      internalID: -7877354129031197449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_203
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 578
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8220c9b50a4ed2320800000000000000
+      internalID: 2534933542662308392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_204
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 553
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7fd35c5fb266d10800000000000000
+      internalID: 2118429009300551641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_205
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 544
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c36072800760e380800000000000000
+      internalID: -8944035608071740480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_206
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 538
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be0cefe7d8521e90800000000000000
+      internalID: -7056479981669708108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_207
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 527
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b146aa559f4eb41b0800000000000000
+      internalID: -5671187546207788005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_208
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 520
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867b31a20e0c4c300800000000000000
+      internalID: 271553946560214888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_209
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 504
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61ae75bb4e91c110800000000000000
+      internalID: 1279477817154642284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_210
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 489
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56b58e1bafb51b40800000000000000
+      internalID: 5410441269027911261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_211
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 258
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60bd80267e17e0b0800000000000000
+      internalID: -5699553310712942485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_212
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 234
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7407bad10ff46f0800000000000000
+      internalID: -698075406998157316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_213
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 210
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35540e5ac6cf524a0800000000000000
+      internalID: -6618606533781469869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_214
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 200
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46091fef3fb148d30800000000000000
+      internalID: 4432698668007657572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_215
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 177
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0b0800f444b3430800000000000000
+      internalID: 3763677019699720436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_216
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 98
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bf9ea9b5fea5f70800000000000000
+      internalID: 9176910367440894808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_217
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 850
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932ac9f583b05ad10800000000000000
+      internalID: 2136125935007343161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_218
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 618
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd932ad125e4f57b0800000000000000
+      internalID: -5233378127389771301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_219
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 569
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777866a6a75622710800000000000000
+      internalID: 1667006388526024567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_220
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 563
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e30fe34e134ecd0800000000000000
+      internalID: -2529842234297139682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_221
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 496
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb351cd3b39eb5d50800000000000000
+      internalID: 6727226909056390076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_222
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 482
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b071f8418b01ec0800000000000000
+      internalID: -3598173703829517445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_223
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 474
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0c748aeb0186910800000000000000
+      internalID: 1830731659579211984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_224
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 218
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60c0d5b490c2e710800000000000000
+      internalID: 1721149752547000431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_225
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 192
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ca5c35c4e9bb6f0800000000000000
+      internalID: -667766069074220010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_226
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 186
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27f5f595cf0e1890800000000000000
+      internalID: -7485528189344286931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_227
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 171
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c17c69054a54050800000000000000
+      internalID: 5784209962461240329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_228
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 155
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bb1ddb15cc10ff0800000000000000
+      internalID: -71551467612161199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_229
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 146
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9daf99eba7c053f0800000000000000
+      internalID: -914011183183319649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_230
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 121
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb718c8735f779e0800000000000000
+      internalID: -1623559521714471954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_231
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 112
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae10e38d699486810800000000000000
+      internalID: 1758736566710043114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_232
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 507
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5bddcbdad7bdbd0800000000000000
+      internalID: -2604349774352239133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_233
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 497
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be40376d6d8a2bf0800000000000000
+      internalID: -348310520145621324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hp, stamina bar_234
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 597
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8faf5224761228260800000000000000
+      internalID: 7098272690064456440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hp, stamina bar_0: 4238989429776242823
+      hp, stamina bar_1: -5973110984269319013
+      hp, stamina bar_10: 5509348284391127483
+      hp, stamina bar_100: -7862174275622613231
+      hp, stamina bar_101: 5607625769060392069
+      hp, stamina bar_102: -5445329731019907027
+      hp, stamina bar_103: 5169045222356287375
+      hp, stamina bar_104: 1905366984580379779
+      hp, stamina bar_105: 6252572688815461079
+      hp, stamina bar_106: 7114981208565999614
+      hp, stamina bar_107: 818314566738904108
+      hp, stamina bar_108: 5048917152015332280
+      hp, stamina bar_109: -4029860057351676740
+      hp, stamina bar_11: -514788345491682306
+      hp, stamina bar_110: 7090032059948169062
+      hp, stamina bar_111: 4819193447056217185
+      hp, stamina bar_112: -1724655032681717028
+      hp, stamina bar_113: -1852951074698931080
+      hp, stamina bar_114: -595852337051145937
+      hp, stamina bar_115: -412709408886452586
+      hp, stamina bar_116: 7601170612920717258
+      hp, stamina bar_117: 8487503942993645752
+      hp, stamina bar_118: 95442464132438014
+      hp, stamina bar_119: -1592114400796205871
+      hp, stamina bar_12: 8300045966950454023
+      hp, stamina bar_120: -5223082724417149224
+      hp, stamina bar_121: -4877216151953613653
+      hp, stamina bar_122: 2160028050197352769
+      hp, stamina bar_123: -55601442788287378
+      hp, stamina bar_124: 3793460914662127336
+      hp, stamina bar_125: -7491976823867344279
+      hp, stamina bar_126: 4694244071192800239
+      hp, stamina bar_127: 5652380496326032766
+      hp, stamina bar_128: 8877855983015404844
+      hp, stamina bar_129: -6215408746962411771
+      hp, stamina bar_13: -2493419041223962006
+      hp, stamina bar_130: -4780778906932155319
+      hp, stamina bar_131: 3840048369471779831
+      hp, stamina bar_132: 134551506050559118
+      hp, stamina bar_133: 726372520950427112
+      hp, stamina bar_134: -7652326957324378920
+      hp, stamina bar_135: -7150539929236830033
+      hp, stamina bar_136: -6600555327757969384
+      hp, stamina bar_137: 4098966920084352898
+      hp, stamina bar_138: -8774233480616678685
+      hp, stamina bar_139: 5172370011746392769
+      hp, stamina bar_14: -2276906459758278190
+      hp, stamina bar_140: 515691376888588692
+      hp, stamina bar_141: 3024124564119819674
+      hp, stamina bar_142: -1774413529495120963
+      hp, stamina bar_143: -1396580116283315352
+      hp, stamina bar_144: 9185268060919780839
+      hp, stamina bar_145: -4179180503494844029
+      hp, stamina bar_146: 4456457632460995105
+      hp, stamina bar_147: 7379935010682506706
+      hp, stamina bar_148: -2379734201290761094
+      hp, stamina bar_149: 1804017248503750189
+      hp, stamina bar_15: 3053320799887367979
+      hp, stamina bar_150: -4168088634304030706
+      hp, stamina bar_151: -4222985280801477045
+      hp, stamina bar_152: -2813553580964321847
+      hp, stamina bar_153: -7646043547233841472
+      hp, stamina bar_154: 3208984276070180318
+      hp, stamina bar_155: 6144956520492489589
+      hp, stamina bar_156: -3013598583354209653
+      hp, stamina bar_157: -770186584105219840
+      hp, stamina bar_158: -3038672656507056463
+      hp, stamina bar_159: -5309110092351282905
+      hp, stamina bar_16: 8299430499684068569
+      hp, stamina bar_160: 6580393337006261161
+      hp, stamina bar_161: 7556449306658951580
+      hp, stamina bar_162: 9040617716806289594
+      hp, stamina bar_163: 1963186626393000735
+      hp, stamina bar_164: 8530315792603730767
+      hp, stamina bar_165: 2764059541154232388
+      hp, stamina bar_166: 5793447602054146289
+      hp, stamina bar_167: 1937386714864228197
+      hp, stamina bar_168: -8553618474440841351
+      hp, stamina bar_169: 8495058412524609471
+      hp, stamina bar_17: -1189583779031308356
+      hp, stamina bar_170: -2278655357682502473
+      hp, stamina bar_171: -9066088819239301950
+      hp, stamina bar_172: 6274160212875155229
+      hp, stamina bar_173: -1737474849103174858
+      hp, stamina bar_174: -2279999689513262160
+      hp, stamina bar_175: -6945440214986143153
+      hp, stamina bar_176: -2251549759428547286
+      hp, stamina bar_177: 8776333831128888995
+      hp, stamina bar_178: 1513579657714314427
+      hp, stamina bar_179: -873398317012217259
+      hp, stamina bar_18: 7072132193428184447
+      hp, stamina bar_180: 7102032831958543185
+      hp, stamina bar_181: -4725572855842750758
+      hp, stamina bar_182: -4513968154346890010
+      hp, stamina bar_183: -4735461601445102994
+      hp, stamina bar_184: 3560649059278206736
+      hp, stamina bar_185: -5407508428562544647
+      hp, stamina bar_186: 9195998778224036721
+      hp, stamina bar_187: 7456168451418578557
+      hp, stamina bar_188: 5699475917548502777
+      hp, stamina bar_189: 7920946906605664849
+      hp, stamina bar_19: -6772616640477697619
+      hp, stamina bar_190: 6253845036641185404
+      hp, stamina bar_191: -6990983555305384473
+      hp, stamina bar_192: 136668842397731442
+      hp, stamina bar_193: 835872580522393605
+      hp, stamina bar_194: 5507189799373634046
+      hp, stamina bar_195: 6632834008146994816
+      hp, stamina bar_196: -6140048308907351505
+      hp, stamina bar_197: 8058243946356377840
+      hp, stamina bar_198: -8740035449901958301
+      hp, stamina bar_199: 7137854573497291953
+      hp, stamina bar_2: 2548651003346960583
+      hp, stamina bar_20: -5823721653212795294
+      hp, stamina bar_200: -7377299191599287917
+      hp, stamina bar_201: 2787167138118925067
+      hp, stamina bar_202: -7877354129031197449
+      hp, stamina bar_203: 2534933542662308392
+      hp, stamina bar_204: 2118429009300551641
+      hp, stamina bar_205: -8944035608071740480
+      hp, stamina bar_206: -7056479981669708108
+      hp, stamina bar_207: -5671187546207788005
+      hp, stamina bar_208: 271553946560214888
+      hp, stamina bar_209: 1279477817154642284
+      hp, stamina bar_21: -3066090016693642581
+      hp, stamina bar_210: 5410441269027911261
+      hp, stamina bar_211: -5699553310712942485
+      hp, stamina bar_212: -698075406998157316
+      hp, stamina bar_213: -6618606533781469869
+      hp, stamina bar_214: 4432698668007657572
+      hp, stamina bar_215: 3763677019699720436
+      hp, stamina bar_216: 9176910367440894808
+      hp, stamina bar_217: 2136125935007343161
+      hp, stamina bar_218: -5233378127389771301
+      hp, stamina bar_219: 1667006388526024567
+      hp, stamina bar_22: -547951272337305330
+      hp, stamina bar_220: -2529842234297139682
+      hp, stamina bar_221: 6727226909056390076
+      hp, stamina bar_222: -3598173703829517445
+      hp, stamina bar_223: 1830731659579211984
+      hp, stamina bar_224: 1721149752547000431
+      hp, stamina bar_225: -667766069074220010
+      hp, stamina bar_226: -7485528189344286931
+      hp, stamina bar_227: 5784209962461240329
+      hp, stamina bar_228: -71551467612161199
+      hp, stamina bar_229: -914011183183319649
+      hp, stamina bar_23: 5537459477418032686
+      hp, stamina bar_230: -1623559521714471954
+      hp, stamina bar_231: 1758736566710043114
+      hp, stamina bar_232: -2604349774352239133
+      hp, stamina bar_233: -348310520145621324
+      hp, stamina bar_234: 7098272690064456440
+      hp, stamina bar_24: 7379258372366877789
+      hp, stamina bar_25: -3399235596143542627
+      hp, stamina bar_26: 7445381812128022705
+      hp, stamina bar_27: 9094052858992347250
+      hp, stamina bar_28: -5096251205002531996
+      hp, stamina bar_29: -5183083159973477764
+      hp, stamina bar_3: -5027316020432152358
+      hp, stamina bar_30: -3307891264298281862
+      hp, stamina bar_31: -8959288395843943172
+      hp, stamina bar_32: 6686469192465423008
+      hp, stamina bar_33: 8709177786996201648
+      hp, stamina bar_34: -5328934009146189586
+      hp, stamina bar_35: 6295737123061731749
+      hp, stamina bar_36: -8541444281282384569
+      hp, stamina bar_37: -3516472808069776348
+      hp, stamina bar_38: 8711626300754771682
+      hp, stamina bar_39: -3895577829998139034
+      hp, stamina bar_4: -4370509355327258188
+      hp, stamina bar_40: 400699205343022260
+      hp, stamina bar_41: 6368816178201049509
+      hp, stamina bar_42: -1812358335058166532
+      hp, stamina bar_43: 6976087245692673454
+      hp, stamina bar_44: 5584746740393785754
+      hp, stamina bar_45: -7965343889359779944
+      hp, stamina bar_46: -3502451347465779892
+      hp, stamina bar_47: -6343044977029645120
+      hp, stamina bar_48: 8576952579254738805
+      hp, stamina bar_49: -473756486461727216
+      hp, stamina bar_5: 1617692195654520686
+      hp, stamina bar_50: -2307678303140627907
+      hp, stamina bar_51: 8607185870959938505
+      hp, stamina bar_52: 8492981107643320148
+      hp, stamina bar_53: 4477672924206289527
+      hp, stamina bar_54: 3319453837414658455
+      hp, stamina bar_55: -8775937200492114032
+      hp, stamina bar_56: 4535007303795744773
+      hp, stamina bar_57: 1027364562511561974
+      hp, stamina bar_58: 6565145734800387396
+      hp, stamina bar_59: 5812697317685921627
+      hp, stamina bar_6: -8703711231115956010
+      hp, stamina bar_60: 5651661700716853444
+      hp, stamina bar_61: 6214847271415610924
+      hp, stamina bar_62: -1656381304351538828
+      hp, stamina bar_63: 5026039454894037565
+      hp, stamina bar_64: 2213073307921185977
+      hp, stamina bar_65: -4685681962967568526
+      hp, stamina bar_66: -7757519433193614378
+      hp, stamina bar_67: 144383201072961923
+      hp, stamina bar_68: 3883213648823719153
+      hp, stamina bar_69: -224981562271843562
+      hp, stamina bar_7: -6718706985721261203
+      hp, stamina bar_70: 1484703881623321515
+      hp, stamina bar_71: -7653199819690191912
+      hp, stamina bar_72: 5896688751505908422
+      hp, stamina bar_73: -6553357815554168134
+      hp, stamina bar_74: -7312436433570592547
+      hp, stamina bar_75: 9163712076877864106
+      hp, stamina bar_76: 435990081573734460
+      hp, stamina bar_77: 5879033408980404031
+      hp, stamina bar_78: 6840871435166181042
+      hp, stamina bar_79: -8759626404001777639
+      hp, stamina bar_8: 9087634472764650574
+      hp, stamina bar_80: -570357751986252101
+      hp, stamina bar_81: -7312984002540136255
+      hp, stamina bar_82: -1551024770926884836
+      hp, stamina bar_83: -968150314232311866
+      hp, stamina bar_84: -5542707829365761460
+      hp, stamina bar_85: -1689116264042495110
+      hp, stamina bar_86: -6465927655637937481
+      hp, stamina bar_87: -1152607148619743825
+      hp, stamina bar_88: -1151283756528549066
+      hp, stamina bar_89: -3953665175132234385
+      hp, stamina bar_9: -916638181392566079
+      hp, stamina bar_90: -585899237337163755
+      hp, stamina bar_91: -2556711348247134297
+      hp, stamina bar_92: 4804600700990632841
+      hp, stamina bar_93: -751507172672928207
+      hp, stamina bar_94: -7299978548988773457
+      hp, stamina bar_95: -133866776256350460
+      hp, stamina bar_96: 2426688701047797196
+      hp, stamina bar_97: -8474448433625151630
+      hp, stamina bar_98: 7449659300769032659
+      hp, stamina bar_99: -4225309935711108219
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
