@@ -21,13 +21,9 @@ public class BattleManager : MonoBehaviour
     [SerializeField] private int stamina = 10;
     [SerializeField] private int maxStamina = 10;
 
-    // ====== Distance / Accuracy ======
-    [Header("Distance / Accuracy")]
+    // ====== Distance ======
+    [Header("Distance")]
     [SerializeField] private int distance = 5;
-    [SerializeField] private int idealDistance = 5;
-    [SerializeField] private float maxHitChance = 0.90f;
-    [SerializeField] private float penaltyPerStep = 0.10f;
-    [SerializeField] private float minHitChance = 0.10f;
 
     // ====== Damage ======
     [Header("Damage")]
@@ -71,49 +67,83 @@ public class BattleManager : MonoBehaviour
     // =========================================================
     public void UseSkill(SkillData skill)
     {
-        Debug.Log($"UseSkill: {skill.skillName}");
+        if (skill == null)
+        {
+            Debug.LogWarning("UseSkill: skill is null");
+            return;
+        }
+
+        Debug.Log($"UseSkill: {skill.displayName}");
+
+        // 스태미나 체크 (staminaCost가 음수면 회복 스킬도 가능)
+        if (skill.staminaCost > 0 && stamina < skill.staminaCost)
+        {
+            Debug.Log("Not enough stamina");
+            return;
+        }
+
+        // 비용 적용
+        stamina -= skill.staminaCost;
+
+        // 거리 배율(ideal+falloff, no cutoff)
+        float distMult = skill.GetDistanceMultiplier(distance);
 
         switch (skill.type)
         {
             case SkillType.Attack:
             {
-                bool hit = RollHit();
-                if (hit)
-                {
-                    int dmg = baseAttackDamage + skill.baseDamage + nextAttackBonus;
-                    nextAttackBonus = 0;
-                    enemyHP -= dmg;
-                    Debug.Log($"Player Attack HIT! -{dmg}");
-                }
-                else
-                {
-                    Debug.Log("Player Attack MISS");
-                }
+                // 공격은 거리 배율로 "명중/피해" 둘 중 하나에 적용해야 함
+                // 지금은 MVP로 피해에만 적용(명중 시스템은 나중에 정교화 가능)
+                int raw = baseAttackDamage + skill.power + nextAttackBonus;
+                int dmg = Mathf.Max(0, Mathf.RoundToInt(raw * distMult));
+
+                nextAttackBonus = 0;
+                enemyHP -= dmg;
+
+                Debug.Log($"Player Attack! -{dmg} (mult {distMult:0.00})");
                 break;
             }
 
-            case SkillType.Move:
+            case SkillType.Mobility:
             {
                 distance += skill.distanceDelta;
+                Debug.Log($"Move: dist {(skill.distanceDelta >= 0 ? "+" : "")}{skill.distanceDelta}");
                 break;
             }
 
             case SkillType.Guard:
             {
+                // 예시: Guard는 고정 감쇄 4
                 nextDamageReduction = Mathf.Max(nextDamageReduction, 4);
                 Debug.Log("Guard: next damage reduced");
                 break;
             }
 
-            case SkillType.Buff:
+            case SkillType.Control:
             {
-                nextAttackBonus += 4;
-                Debug.Log("Buff: next attack boosted");
+                // 아직 컨트롤 효과 정의 안 했으니 MVP로 로그만
+                Debug.Log("Control: (TODO) implement");
+                break;
+            }
+
+            case SkillType.Focus:
+            {
+                // 보라색: 다음 공격 증폭 예시
+                nextAttackBonus += Mathf.Max(0, skill.nextAttackBonus);
+                if (skill.nextAttackBonus <= 0) nextAttackBonus += 4; // 에셋 값 없으면 기본 +4
+                Debug.Log($"Focus: next attack boosted (+{nextAttackBonus})");
                 break;
             }
         }
 
-        EndPlayerAction();
+        // 턴 소모 여부 반영 (지금은 대부분 true일 거고, 나중에 기동/반격류를 false로 쓸 수 있음)
+        if (skill.consumesTurn)
+            EndPlayerAction();
+        else
+        {
+            ClampAll();
+            RefreshUI();
+        }
     }
 
     // =========================================================
@@ -157,29 +187,21 @@ public class BattleManager : MonoBehaviour
         Debug.Log($"Enemy Attack: -{finalDmg} (reduced {reduced})");
     }
 
-    // ====== Accuracy ======
-    private bool RollHit()
-    {
-        return Random.value < GetHitChance();
-    }
-
-    public float GetHitChance()
-    {
-        int diff = Mathf.Abs(distance - idealDistance);
-        float chance = maxHitChance - penaltyPerStep * diff;
-        return Mathf.Clamp(chance, minHitChance, maxHitChance);
-    }
-
     // ====== Tooltip ======
-    public void ShowDamageTooltip(int dmg)
+    public void ShowDamageTooltip(SkillData skill)
     {
-        if (!tooltipText) return;
+        if (!tooltipText || skill == null) return;
 
         if (tooltipRoot)
             tooltipRoot.gameObject.SetActive(true);
 
-        int pct = Mathf.RoundToInt(GetHitChance() * 100f);
-        tooltipText.text = $"HIT {pct}%   DMG {dmg}";
+        float mult = skill.GetDistanceMultiplier(distance);
+
+        // 공격툴팁: 예상 피해 표시(명중 확률은 아직 스킬데이터 기반으로 안 만듦)
+        int raw = baseAttackDamage + skill.power + nextAttackBonus;
+        int dmg = Mathf.Max(0, Mathf.RoundToInt(raw * mult));
+
+        tooltipText.text = $"DIST x{mult:0.00}   DMG {dmg}";
     }
 
     public void HideTooltip()
