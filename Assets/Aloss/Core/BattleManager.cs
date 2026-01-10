@@ -1,8 +1,23 @@
 using UnityEngine;
 using TMPro;
 
+public enum BattleState
+{
+    Fear = 0,        // 공포
+    Shaken = 1,      // 동요
+    Distracted = 2,  // 산만
+    Calm = 3,        // 평정 (기본)
+    Focused = 4,     // 집중
+    Immersed = 5,    // 몰입
+    Extreme = 6      // 극한
+}
+
 public class BattleManager : MonoBehaviour
 {
+    // ====== Battle State ======
+    [Header("Battle State")]
+    [SerializeField] private BattleState state = BattleState.Calm;
+
     // ====== UI ======
     [Header("UI")]
     [SerializeField] private TMP_Text playerText;
@@ -23,7 +38,7 @@ public class BattleManager : MonoBehaviour
 
     // ====== Distance ======
     [Header("Distance")]
-    [SerializeField] private int distance = 5;
+    [SerializeField] private int distance = 5; // 0~9
 
     // ====== Damage ======
     [Header("Damage")]
@@ -41,11 +56,13 @@ public class BattleManager : MonoBehaviour
         HideTooltip();
     }
 
-    // ====== UI ======
+    // =========================================================
+    // ================== UI ===================================
+    // =========================================================
     private void RefreshUI()
     {
         if (playerText)
-            playerText.text = $"HP {playerHP}/30\nSTA {stamina}/{maxStamina}";
+            playerText.text = $"STATE {GetStateLabel(state)}\nHP {playerHP}/30\nSTA {stamina}/{maxStamina}";
 
         if (enemyText)
             enemyText.text = $"ENEMY HP\n{enemyHP}/30";
@@ -54,12 +71,43 @@ public class BattleManager : MonoBehaviour
             distanceText.text = $"DIST {distance}";
     }
 
+    private static string GetStateLabel(BattleState s)
+    {
+        // 한글 표시(폰트는 이미 해결됐다고 봄)
+        switch (s)
+        {
+            case BattleState.Fear: return "공포";
+            case BattleState.Shaken: return "동요";
+            case BattleState.Distracted: return "산만";
+            case BattleState.Calm: return "평정";
+            case BattleState.Focused: return "집중";
+            case BattleState.Immersed: return "몰입";
+            case BattleState.Extreme: return "극한";
+            default: return s.ToString();
+        }
+    }
+
     private void ClampAll()
     {
         distance = Mathf.Clamp(distance, 0, 9);
         playerHP = Mathf.Clamp(playerHP, 0, 30);
         enemyHP = Mathf.Clamp(enemyHP, 0, 30);
         stamina = Mathf.Clamp(stamina, 0, maxStamina);
+    }
+
+    // =========================================================
+    // ================== STATE MVP =============================
+    // =========================================================
+    private void ChangeState(int delta, string reason)
+    {
+        if (delta == 0) return;
+
+        int before = (int)state;
+        int after = Mathf.Clamp(before + delta, (int)BattleState.Fear, (int)BattleState.Extreme);
+        if (after == before) return;
+
+        state = (BattleState)after;
+        Debug.Log($"STATE: {GetStateLabel((BattleState)before)} -> {GetStateLabel(state)} ({reason})");
     }
 
     // =========================================================
@@ -75,25 +123,25 @@ public class BattleManager : MonoBehaviour
 
         Debug.Log($"UseSkill: {skill.displayName}");
 
-        // 스태미나 체크 (staminaCost가 음수면 회복 스킬도 가능)
+        // 스태미나 체크 (staminaCost가 양수면 소모)
         if (skill.staminaCost > 0 && stamina < skill.staminaCost)
         {
             Debug.Log("Not enough stamina");
             return;
         }
 
-        // 비용 적용
+        // 비용 적용 (음수면 회복)
         stamina -= skill.staminaCost;
 
         // 거리 배율(ideal+falloff, no cutoff)
         float distMult = skill.GetDistanceMultiplier(distance);
 
+        bool didSomethingPositive = false; // 상태 +1 트리거용
+
         switch (skill.type)
         {
             case SkillType.Attack:
             {
-                // 공격은 거리 배율로 "명중/피해" 둘 중 하나에 적용해야 함
-                // 지금은 MVP로 피해에만 적용(명중 시스템은 나중에 정교화 가능)
                 int raw = baseAttackDamage + skill.power + nextAttackBonus;
                 int dmg = Mathf.Max(0, Mathf.RoundToInt(raw * distMult));
 
@@ -101,42 +149,56 @@ public class BattleManager : MonoBehaviour
                 enemyHP -= dmg;
 
                 Debug.Log($"Player Attack! -{dmg} (mult {distMult:0.00})");
+
+                if (dmg > 0)
+                {
+                    didSomethingPositive = true; // “공격 성공”
+                }
                 break;
             }
 
             case SkillType.Mobility:
             {
+                int before = distance;
                 distance += skill.distanceDelta;
                 Debug.Log($"Move: dist {(skill.distanceDelta >= 0 ? "+" : "")}{skill.distanceDelta}");
+
+                // 실제로 변화가 있었으면 성공
+                if (before != distance) didSomethingPositive = true;
                 break;
             }
 
             case SkillType.Guard:
             {
-                // 예시: Guard는 고정 감쇄 4
                 nextDamageReduction = Mathf.Max(nextDamageReduction, 4);
                 Debug.Log("Guard: next damage reduced");
+                didSomethingPositive = true;
                 break;
             }
 
             case SkillType.Control:
             {
-                // 아직 컨트롤 효과 정의 안 했으니 MVP로 로그만
                 Debug.Log("Control: (TODO) implement");
+                // 컨트롤은 아직이라 상태 변화는 보류
                 break;
             }
 
             case SkillType.Focus:
             {
-                // 보라색: 다음 공격 증폭 예시
-                nextAttackBonus += Mathf.Max(0, skill.nextAttackBonus);
-                if (skill.nextAttackBonus <= 0) nextAttackBonus += 4; // 에셋 값 없으면 기본 +4
-                Debug.Log($"Focus: next attack boosted (+{nextAttackBonus})");
+                int add = Mathf.Max(0, skill.nextAttackBonus);
+                if (add <= 0) add = 4;
+                nextAttackBonus += add;
+
+                Debug.Log($"Focus: next attack boosted (+{add})");
+                didSomethingPositive = true;
                 break;
             }
         }
 
-        // 턴 소모 여부 반영 (지금은 대부분 true일 거고, 나중에 기동/반격류를 false로 쓸 수 있음)
+        // 플레이어 행동 결과로 상태 상승(MVP)
+        if (didSomethingPositive)
+            ChangeState(+1, $"player {skill.type}");
+
         if (skill.consumesTurn)
             EndPlayerAction();
         else
@@ -151,6 +213,7 @@ public class BattleManager : MonoBehaviour
     // =========================================================
     private void EndPlayerAction()
     {
+        // MVP: 턴 종료 시 스태미나 1 회복
         stamina = Mathf.Min(maxStamina, stamina + 1);
 
         ClampAll();
@@ -173,6 +236,7 @@ public class BattleManager : MonoBehaviour
 
     private void EnemyAct()
     {
+        // 멀면 따라오기
         if (distance >= 6)
         {
             distance -= 1;
@@ -180,6 +244,7 @@ public class BattleManager : MonoBehaviour
             return;
         }
 
+        // 공격
         int dmg = 6;
         int reduced = Mathf.Min(dmg, nextDamageReduction);
         int finalDmg = dmg - reduced;
@@ -187,9 +252,15 @@ public class BattleManager : MonoBehaviour
 
         playerHP -= finalDmg;
         Debug.Log($"Enemy Attack: -{finalDmg} (reduced {reduced})");
+
+        // 맞았으면 상태 하락(MVP)
+        if (finalDmg > 0)
+            ChangeState(-1, "hit");
     }
 
-    // ====== Tooltip ======
+    // =========================================================
+    // ================== Tooltip ==============================
+    // =========================================================
     public void ShowDamageTooltip(SkillData skill)
     {
         if (!tooltipText || skill == null) return;
@@ -199,7 +270,6 @@ public class BattleManager : MonoBehaviour
 
         float mult = skill.GetDistanceMultiplier(distance);
 
-        // 공격툴팁: 예상 피해 표시(명중 확률은 아직 스킬데이터 기반으로 안 만듦)
         int raw = baseAttackDamage + skill.power + nextAttackBonus;
         int dmg = Mathf.Max(0, Mathf.RoundToInt(raw * mult));
 
