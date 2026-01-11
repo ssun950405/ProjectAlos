@@ -16,7 +16,7 @@ MonoBehaviour:
   displayName: Move_Forward
   description: 
   type: 1
-  staminaCost: 2
+  staminaCost: 1
   consumesTurn: 1
   idealDistance: 5
   falloffPerStep: 0

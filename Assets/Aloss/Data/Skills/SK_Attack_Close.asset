@@ -16,7 +16,7 @@ MonoBehaviour:
   displayName: Attack_Close
   description: 
   type: 0
-  staminaCost: 2
+  staminaCost: 1
   consumesTurn: 1
   idealDistance: 2
   falloffPerStep: 0.1
